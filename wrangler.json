@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "swb-app",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "7382a991-1abc-4d8e-bc13-e7a1bc844a0f",
+			"database_name": "swb-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
